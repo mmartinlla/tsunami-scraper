@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este repositorio contiene todos los archivos a entregar para la PRAC1 de la asignatura "Tipología y ciclo de vida de los datos", impartida en el Máster universitario de Ciencia de Datos de la UOC (Universitat Oberta de Catalunya.
+Este repositorio contiene todos los archivos a entregar para la PRAC1 de la asignatura "Tipología y ciclo de vida de los datos", impartida en el Máster universitario de Ciencia de Datos de la UOC (Universitat Oberta de Catalunya).
 Para esta práctica se ha tenido que llevar a cabo un caso de Web Scraping. En mi caso, concretamente he extraído datos sobre los tsunamis ocurridos durante la historia de la humanidad a nivel mundial, desde la base de datos [NGDC/WDS Tsunami Event Database](https://www.ngdc.noaa.gov/nndc/struts/form?t=101650&s=70&d=7). 
 
 ## Autores de la práctica
